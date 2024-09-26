@@ -1,1 +1,1 @@
-![Jetpack Compose UIs of the Android](screenshots/apps.jpg)
+![Jetpack Compose UIs of the Android](screenshots/app.jpg)
