@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JetpackComposeLoginRegistrationTutorial</string>
+    <string name="hello">Hi there,</string>
+    <string name="create_account">Create an account</string>
+    <string name="welcome">Welcome back</string>
+    <string name="first_name">First name</string>
+    <string name="second_name">Second name</string>
+    <string name="password">Password</string>
+    <string name="email">email</string>
+    <string name="password_hide">Hide password</string>
+    <string name="password_show">Show password</string>
+    <string name="terms_and_conditions">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_and_conditions_header">Term of Use</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="go_to_login">Already have an account? Login</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="no_account">Don\'t have an account yet? Register</string>
+</resources>
